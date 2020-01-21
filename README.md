@@ -1,1 +1,3 @@
-"# ML_Digit_Recognizer" 
+Архитектура - CNN
+
+Метрика - ROC AUG
